@@ -1,0 +1,7 @@
+Data travels across the internet in packets that contain each contain bytes.
+An IP address is a numerical number given to computers and servers. The DNS assigns IP addresses into an easy to remember an accessible name, such as www.google.com or www.facebook.com.
+A cookie is a small file that is dropper on to your personal computers harddrive when you visit a website. It contains information that about what you did on the site.
+The three basic parts of the url are the protocol, domain, and path
+
+
+This is a test to track changes to github desktop. It's still not working
